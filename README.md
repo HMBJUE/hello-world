@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+只是另一个存储库
+一名前端程序员，喜欢研究区块链，在学习中分享自己的学习之路
